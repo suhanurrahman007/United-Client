@@ -1,10 +1,10 @@
 # A Forum Project.
 
-Click here for the Server side link : ([https://github.com/Porgramming-Hero-web-course/b8a11-server-side-suhanurrahman007](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-suhanurrahman007))
+Click here for the Server side link : ([https://github.com/suhanurrahman007/United-Server.git](https://github.com/suhanurrahman007/United-Server.git))
 
-## [ Live Link](https://foporbaz.web.app)
+## [ Live Link](https://united-e19cb.web.app/)
 
-Click here for the private client repo: ([https://github.com/Porgramming-Hero-web-course/b8a11-client-side-suhanurrahman007](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-suhanurrahman007))
+Click here for the private client repo: ([https://github.com/suhanurrahman007/United-Client](https://github.com/suhanurrahman007/United-Client))
 
 ## Getting Started
 
