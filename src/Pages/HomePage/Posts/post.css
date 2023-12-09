@@ -1,0 +1,22 @@
+.btn-page {
+    background-color: #140D32;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    transition: background-color 0.3s;
+}
+
+.active-page {
+    background-color: transparent;
+    border: 1px solid #00ff91;
+}
+
+.btn-page:hover {
+    background-color: #1E1744;
+}
+
+.btn-page:active {
+    background-color: #0D0A23;
+}
